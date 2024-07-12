@@ -1,5 +1,4 @@
 ## Hi there 👋
-What you need to know about me: 
 - aspiring FullStack developer, currently Frontend developer
 - 👩🏻‍💻🧠🏐👩🏻‍🎨🪐🪩🐻🌔
 ---
