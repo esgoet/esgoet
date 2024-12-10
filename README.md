@@ -1,5 +1,5 @@
 ## Hi there 👋
-- aspiring FullStack developer, currently Frontend developer
+- Full Stack Developer with Frontend Focus
 - 👩🏻‍💻🧠🏐👩🏻‍🎨🪐🪩🐻🌔
 ---
 
